@@ -1,0 +1,50 @@
+/*
+ * Your Stylesheet
+ *
+ * This stylesheet is loaded when Atom starts up and is reloaded automatically
+ * when it is changed and saved.
+ *
+ * Add your own CSS or Less to fully customize Atom.
+ * If you are unfamiliar with Less, you can read more about it here:
+ * http://lesscss.org
+ */
+
+
+/*
+ * Examples
+ * (To see them, uncomment and save)
+ */
+
+body{
+  padding: 10px;
+  margin: 10px;
+  background-color: RGBA(153, 19%, 91%);
+
+}
+h1{
+  padding: 10px;  
+  text-align: center;
+  font-size: 45px;
+  color: #610909;
+}
+h2{ color: blue;
+  text-align: center;
+  }
+  h3{
+
+    text-align: center;
+    color: lawngreen;
+  }
+  img { width: 870px; height: 260px;
+  
+display:block;
+margin:auto;
+
+  }
+  p{
+    color: rgb(212, 217, 240);
+    text-align: center;
+  }
+  b {
+    color: rgba(12, 34, 156, 0.877);
+  }
